@@ -3,7 +3,7 @@
 
 ## 개발환경
 - IDE : WebStorm
-- Framework : nest
+- Framework : nest + fastify
 - ORM : mongoDB
 
 ## 프로젝트 아키텍쳐
